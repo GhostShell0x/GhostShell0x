@@ -58,36 +58,24 @@ I'm a cybersecurity student on a practitioner track toward roles in **red teamin
 - 🐚 Worked through a Langflow-based HackTheBox challenge culminating in a reverse shell
 - 📚 Studies disclosed HackerOne reports to learn real-world exploitation patterns
 
-*(Swap these for links to your writeups/repos once published — recruiters love clickable proof.)*
+
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GhostShell0x&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostShell0x&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostShell0x&theme=radical&hide_border=true" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/abdulla-a-738b96253" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com/p/YOUR_USERNAME" target="_blank">
+  <a href="https://tryhackme.com/p/abdullaashik2001" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="https://app.hackthebox.com/profile/YOUR_ID" target="_blank">
+  <a href="https://app.hackthebox.com/users/2410448" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
 </p>
